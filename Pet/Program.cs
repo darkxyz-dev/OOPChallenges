@@ -11,11 +11,11 @@ namespace Pet
             double weight;
             int lifespan;
 
-            public Pet(string _name, int v)
+            public Pet(string _name, int _weight)
             {
                 name = _name;
                 age = 0;
-                weight = 1;
+                weight = _weight;
                 lifespan = 0;
             }
 
@@ -60,7 +60,7 @@ namespace Pet
         {
             Pet newPet = new Pet("Pedro", 0);
 
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < 11; i++)
             {
                 if (newPet.Weight == 0.7)
                 {
