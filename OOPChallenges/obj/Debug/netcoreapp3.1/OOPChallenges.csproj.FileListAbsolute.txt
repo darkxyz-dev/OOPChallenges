@@ -1,0 +1,13 @@
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.exe
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.deps.json
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.runtimeconfig.json
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.runtimeconfig.dev.json
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.dll
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.pdb
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.csprojAssemblyReference.cache
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.AssemblyInfoInputs.cache
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.AssemblyInfo.cs
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.csproj.CoreCompileInputs.cache
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.dll
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.pdb
+C:\Users\jgolu\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\bin\Debug\netcoreapp3.1\Pet.exe
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\bin\Debug\netcoreapp3.1\Pet.deps.json
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\bin\Debug\netcoreapp3.1\Pet.runtimeconfig.json
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\bin\Debug\netcoreapp3.1\Pet.runtimeconfig.dev.json
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\bin\Debug\netcoreapp3.1\Pet.dll
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\bin\Debug\netcoreapp3.1\Pet.pdb
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\obj\Debug\netcoreapp3.1\Pet.csprojAssemblyReference.cache
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\obj\Debug\netcoreapp3.1\Pet.AssemblyInfoInputs.cache
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\obj\Debug\netcoreapp3.1\Pet.AssemblyInfo.cs
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\obj\Debug\netcoreapp3.1\Pet.csproj.CoreCompileInputs.cache
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\obj\Debug\netcoreapp3.1\Pet.dll
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\obj\Debug\netcoreapp3.1\Pet.pdb
+C:\Users\jgolu\source\repos\OOPChallenges\Pet\obj\Debug\netcoreapp3.1\Pet.genruntimeconfig.cache
